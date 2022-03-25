@@ -1,7 +1,7 @@
 //Segundo ejercicio
 let num = 0
 num = 3;
-let numAlCubo = (num * num) * num;
+let numAlCubo = num * num * num;
 console.log('El resultado es: ' + numAlCubo);
 
 //Tercer ejercicio
